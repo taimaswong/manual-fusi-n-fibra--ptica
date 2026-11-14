@@ -17,11 +17,11 @@ El presente manual describe los principales procedimientos necesarios para reali
 
 2. Objetivos
 
-2.1 Objetivo general
+Objetivo general
 
 Documentar el procedimiento técnico de preparación y fusión de fibra óptica, considerando las medidas de seguridad y los parámetros necesarios para obtener un empalme de calidad.
 
-2.2 Objetivos específicos
+Objetivos específicos
 
 - Identificar los materiales y herramientas utilizados en la práctica.
 - Aplicar medidas de seguridad durante la manipulación de fibra óptica.
@@ -68,7 +68,7 @@ Advertencia:Los fragmentos de fibra óptica pueden ser difíciles de visualizar 
 
 6. Procedimiento técnico
 
-6.1 Stripping (Pelado de fibra)
+Stripping (Pelado de fibra)
 
 El stripping consiste en retirar las capas protectoras del cable de fibra óptica mediante una pinza peladora adecuada, dejando expuesto el vidrio de la fibra de 125 micras.
 
@@ -78,7 +78,7 @@ Imagen de la práctica:
 
 ![Proceso de stripping](assets/img/stripping.jpg)
 
-6.2 Limpieza de precisión
+Limpieza de precisión
 
 Una vez retirada la protección, se realiza la limpieza de la fibra utilizando alcohol isopropílico de alta pureza y paños libres de pelusa.
 
@@ -88,7 +88,7 @@ Imagen de la práctica:
 
 ![Limpieza de fibra](assets/img/limpieza.jpg)
 
-6.3 Cleaving (Corte de precisión)
+Cleaving (Corte de precisión)
 
 El cleaving consiste en realizar un corte preciso en el extremo de la fibra utilizando una cortadora especializada.
 
@@ -98,7 +98,7 @@ Imagen de la práctica:
 
 ![Corte de precisión](assets/img/cleaving.jpg)
 
-6.4 Proceso de termofusión
+Proceso de termofusión
 
 La termofusión permite unir dos extremos de fibra óptica mediante una fusionadora.
 
@@ -110,7 +110,7 @@ Imagen de la práctica:
 
 ![Proceso de termofusión](assets/img/fusionadora.jpg)
 
-6.5 Protección del empalme
+Protección del empalme
 
 Después de realizar la fusión, se instala un manguito termocontraíble sobre la unión.
 
