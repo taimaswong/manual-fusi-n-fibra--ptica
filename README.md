@@ -5,15 +5,14 @@ Asignatura:Infraestructura de Redes (TCB304)
 Institución:INACAP  
 Sede: La Serena  
 
----
 
 1. Introducción
 
-La fibra óptica es un medio de transmisión que permite transportar información mediante pulsos de luz a través de filamentos de vidrio. Es utilizada en las redes de telecomunicaciones debido a su gran capacidad de transmisión, velocidad y bajas pérdidas de señal.
+La fibra óptica es un medio de transmisión que utiliza pulsos de luz que viajan por filamentos de vidrio. Se usa en redes de telecomunicaciones por su alta capacidad de transmisión, rapidez y bajas pérdidas.
 
-La termofusión es un procedimiento utilizado para unir dos fibras ópticas mediante una fusionadora que emplea un arco eléctrico. Este proceso permite obtener una unión permanente, procurando mantener una baja atenuación y una buena continuidad de la señal.
+La termofusión es el método de empalme de fibra óptica en el cual se utilizan fusionadoras (que trabajan con arco eléctrico) para unir dos fibras. De esta manera se consigue un empalme permanente con bajas atenuaciones.
 
-El presente manual describe los principales procedimientos necesarios para realizar una fusión de fibra óptica, considerando la seguridad, preparación del material, limpieza, corte de precisión, termofusión y verificación de resultados.
+En este manual se explican los principales pasos a seguir para poder llevar a cabo una fusión de fibra óptica. Los pasos incluyen aspectos de seguridad, preparación de material, limpieza, corte preciso, termofusión y comprobación de resultados.
 
 2. Objetivos
 
@@ -115,65 +114,45 @@ Este elemento proporciona protección mecánica al empalme y ayuda a mantener su
 ![Protección del empalme](assets/img/fusion-final.jpeg)
 
 7. Presupuesto óptico
+w
+El presupuesto óptico consiste en analizar las pérdidas de potencia de la señal en un enlace de fibra óptica.
 
-El presupuesto óptico permite estimar las pérdidas de potencia que experimenta una señal durante su recorrido por un enlace de fibra óptica.
+Las pérdidas pueden deberse a:
 
-Se deben considerar:
+-Fibra óptica. En la transmisión existen pérdidas (atenuación).
 
-- Atenuación de la fibra por kilómetro.
-- Pérdidas producidas por los conectores.
-- Pérdidas producidas por los empalmes.
-- Margen de ingeniería correspondiente.
+-Conectores. Se producen pérdidas por el hecho de conectar unos componentes con otros.
 
-7.1 Fórmula de cálculo
+-Empalmes. Se pueden producir pequeñas pérdidas según la calidad del empalme.
 
-Pérdida total:
+-Margen de seguridad. Permite tener en cuenta cualquier variación o pérdida adicional que pueda darse en el enlace.
 
-PT = (L × α) + (Nc × Pc) + (Ne × Pe)
+En una instalación de fibra óptica es posible conocer si la potencia recibida será adecuada para el correcto funcionamiento del sistema gracias al presupuesto óptico.
 
-Donde:
-
-- L: longitud del enlace en kilómetros.
-- α: atenuación de la fibra en dB/km.
-- Nc: cantidad de conectores.
-- Pc: pérdida por conector en dB.
-- Ne: cantidad de empalmes.
-- Pe: pérdida por empalme en dB.
-
-7.2 Tabla de presupuesto óptico
-
-| Elemento  | Cantidad | Pérdida unitaria | Pérdida total |
-| Fibra O.  |   km     |  dB/km           |       dB      |
-| Conectores|          |  dB              |       dB      | 
-| Empalmes  |          |  dB              |       dB      |
-| Total     |          |                  |       dB      |
-
-Los valores deben completarse utilizando los datos reales de la práctica o los entregados por el docente.
-
-7.3 Margen GPON
-
-El presupuesto óptico debe compararse con la pérdida máxima permitida para la clase GPON utilizada en el enlace.
-
-Presupuesto disponible = Potencia óptica de transmisión - Sensibilidad del receptor.
-
-Margen restante = Presupuesto disponible - Pérdida total del enlace.
+Consideración de la práctica: En esta actividad hemos trabajado el proceso de fusión de fibra óptica. No se ha pedido hacer ningún tipo de cálculo de presupuesto óptico. Por ello, en este apartado se incluye información técnica sobre el concepto y sus componentes.
 
 8. Medición y verificación
 
-Una vez finalizado el empalme, se deben registrar los resultados obtenidos mediante los instrumentos disponibles en el laboratorio.
+La medición y verificación nos permite analizar la calidad de nuestro empalme de fibra óptica.
 
-| Parámetro                        | Resultado                  |
-| Continuidad de fibra             | [Completar]                |
-| Pérdida estimada por fusionadora | [Completar] dB             |
-| Pérdida medida | [Completar] dB  |                            |   
-| Estado del empalme               | [Completar]                |   
+Los puntos a tener en cuenta son:
 
-La verificación permite comprobar que la unión se realizó correctamente y que las pérdidas se encuentran dentro de los valores aceptables para el enlace.
+-Continuidad: Se chequea que haya continuidad óptica entre ambos extremos de fibra.
+
+-Pérdida óptica: Es la caída de potencia que sufre la luz a través del empalme.
+
+-Calidad de fusión: Depende de la preparación y limpieza de las fibras, así como de la calidad de corte y alineación.
+
+-Protección: Consiste en mantener la integridad mecánica de la unión (manguito termocontraíble).
+
+La propia fusionadora puede dar una estimación de la pérdida que tiene el empalme (dependiendo de las características). Los instrumentos de medida óptica específicos nos permiten hacer mediciones del enlace completo.
+
+Consideración de la práctica: En esta actividad hemos trabajado en la parte de fusión sin incluir ningún tipo de cálculo o medición de presupuesto óptico.
 
 9. Conclusión
 
-La fusión de fibra óptica es un procedimiento fundamental en la implementación de redes de telecomunicaciones, ya que permite unir fibras manteniendo una baja pérdida de señal.
+El proceso de fusión de fibra óptica es uno de los pasos fundamentales a la hora de poner en marcha una red de telecomunicaciones.
 
-Durante este procedimiento, la preparación, limpieza y precisión del corte son factores importantes para conseguir un empalme de calidad.
+En él es importante el proceso de preparación de la fibra, así como su limpieza y el corte preciso.
 
-Además, el cálculo del presupuesto óptico y la verificación mediante instrumentos permiten evaluar el comportamiento del enlace y comprobar que cumple con los requisitos técnicos establecidos.
+Por otro lado también es importante el cálculo del presupuesto óptico y la comprobación empleando instrumentos que nos permitan conocer el funcionamiento del enlace y su cumplimiento de los requisitos técnicos.
