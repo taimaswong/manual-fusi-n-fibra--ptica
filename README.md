@@ -84,10 +84,6 @@ Una vez retirada la protección, se realiza la limpieza de la fibra utilizando a
 
 El objetivo es eliminar partículas de suciedad y residuos que puedan afectar la calidad del empalme.
 
-Imagen de la práctica:
-
-![Limpieza de fibra](assets/img/limpieza.jpg)
-
 Cleaving (Corte de precisión)
 
 El cleaving consiste en realizar un corte preciso en el extremo de la fibra utilizando una cortadora especializada.
@@ -115,10 +111,6 @@ Protección del empalme
 Después de realizar la fusión, se instala un manguito termocontraíble sobre la unión.
 
 Este elemento proporciona protección mecánica al empalme y ayuda a mantener su integridad.
-
-Imagen de la práctica:
-
-![Protección del empalme](assets/img/fusion-final.jpg)
 
 7. Presupuesto óptico
 
