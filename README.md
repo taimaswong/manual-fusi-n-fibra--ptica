@@ -68,7 +68,7 @@ Advertencia:Los fragmentos de fibra óptica pueden ser difíciles de visualizar 
 
 6. Procedimiento técnico
 
-Stripping (Pelado de fibra)
+6.1 Stripping (Pelado de fibra)
 
 El stripping consiste en retirar las capas protectoras del cable de fibra óptica mediante una pinza peladora adecuada, dejando expuesto el vidrio de la fibra de 125 micras.
 
@@ -78,13 +78,13 @@ Imagen de la práctica:
 
 ![Proceso de stripping](assets/img/stripping.jpg)
 
-Limpieza de precisión
+6.2 Limpieza de precisión
 
 Una vez retirada la protección, se realiza la limpieza de la fibra utilizando alcohol isopropílico de alta pureza y paños libres de pelusa.
 
 El objetivo es eliminar partículas de suciedad y residuos que puedan afectar la calidad del empalme.
 
-Cleaving (Corte de precisión)
+6.3 Cleaving (Corte de precisión)
 
 El cleaving consiste en realizar un corte preciso en el extremo de la fibra utilizando una cortadora especializada.
 
@@ -94,7 +94,7 @@ Imagen de la práctica:
 
 ![Corte de precisión](assets/img/cleaving.jpeg)
 
-Proceso de termofusión
+6.4 Proceso de termofusión
 
 La termofusión permite unir dos extremos de fibra óptica mediante una fusionadora.
 
@@ -106,11 +106,13 @@ Imagen de la práctica:
 
 ![Proceso de termofusión](assets/img/fusionadora.jpeg)
 
-Protección del empalme
+6.5 Protección del empalme
 
 Después de realizar la fusión, se instala un manguito termocontraíble sobre la unión.
 
 Este elemento proporciona protección mecánica al empalme y ayuda a mantener su integridad.
+
+![Protección del empalme](assets/img/fusion-final.jpeg)
 
 7. Presupuesto óptico
 
