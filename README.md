@@ -104,7 +104,7 @@ La calidad del empalme depende de la preparación, limpieza, corte y alineación
 
 Imagen de la práctica:
 
-![Proceso de termofusión](assets/img/fusionadora.jpg)
+![Proceso de termofusión](assets/img/fusionadora.jpeg)
 
 Protección del empalme
 
