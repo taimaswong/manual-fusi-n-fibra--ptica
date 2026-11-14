@@ -92,7 +92,7 @@ El objetivo es obtener una superficie de corte perpendicular, cercana a los 90 g
 
 Imagen de la práctica:
 
-![Corte de precisión](assets/img/cleaving.jpg)
+![Corte de precisión](assets/img/cleaving.jpeg)
 
 Proceso de termofusión
 
